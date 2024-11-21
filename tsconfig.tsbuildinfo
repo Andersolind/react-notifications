@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/notifications.tsx","./src/users.spec.tsx","./src/users.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/utils/notifications.api.ts","./src/utils/utils.ts"],"version":"5.6.3"}
